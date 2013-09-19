@@ -1,0 +1,18 @@
+{
+  "name": "MQ-1",
+  "version": "0.0.0",
+  "description": "Example #1",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "@kuryaki",
+  "license": "BSD",
+  "dependencies": {
+    "kue": "~0.6.2",
+    "nodemailer": "~0.5.2",
+    "commander": "~2.0.0",
+    "prompt": "~0.2.11"
+  }
+}
