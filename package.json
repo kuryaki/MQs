@@ -1,0 +1,18 @@
+{
+  "name": "RabbitMQ.EX",
+  "version": "0.0.0",
+  "description": "Example with RabbitMQ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "@kuryaki"
+  ],
+  "author": "",
+  "license": "BSD",
+  "dependencies": {
+    "amqp": "~0.1.7"
+  }
+}
